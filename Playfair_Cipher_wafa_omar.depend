@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614949507 source:c:\users\hosin wafa\desktop\playfair_cipher_wafa_omar\main.cpp
+	<iostream>
+	<string.h>
+	<ctype.h>
+
